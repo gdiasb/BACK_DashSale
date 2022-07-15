@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.gdias</groupId>
-	<artifactId>dsmeta</artifactId>
+	<artifactId>DashSale</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>dsmeta</name>
+	<name>DashSale</name>
 	<description>DashSale backend</description>
 	<properties>
 		<java.version>17</java.version>
